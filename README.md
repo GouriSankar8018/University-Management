@@ -18,4 +18,4 @@ To run the University Management System on your local machine, follow these step
 Clone the repository :
 <br>
 <hr>
-git clone 
+git clone https://github.com/GouriSankar8018/University-Management.git
